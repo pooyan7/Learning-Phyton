@@ -1,2 +1,2 @@
-# Learning-Phyton
-Learning Basics of Phyton (IBM - PY0101EN)
+# Learning-Python
+Learning Basics of Python (IBM - PY0101EN)
